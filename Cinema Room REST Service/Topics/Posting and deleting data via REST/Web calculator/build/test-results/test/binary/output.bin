@@ -1,0 +1,31 @@
+[1;31m
+Start test 1[0m
+
+)  .   ____          _            __ _ _
+* /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
++( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+, \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
++  '  |____| .__|_| |_|_| |_\__, | / / / /
+* =========|_|==============|___/=/_/_/_/
+, :: Spring Boot ::        (v2.3.1.RELEASE)
+
+§2021-10-17 08:46:56.867  INFO 2232 --- [    Test worker] calculator.WebCalculatorApplication      : Starting WebCalculatorApplication on Chirag-Suthar with PID 2232 (started by sutha in C:\Users\sutha\Desktop\Cinema Room REST Service\Topics\Posting and deleting data via REST\Web calculator)
+•2021-10-17 08:46:56.874  INFO 2232 --- [    Test worker] calculator.WebCalculatorApplication      : No active profile set, falling back to default profiles: default
+ë2021-10-17 08:46:59.298  INFO 2232 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8889 (http)
+~2021-10-17 08:46:59.331  INFO 2232 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+î2021-10-17 08:46:59.331  INFO 2232 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+ó2021-10-17 08:46:59.522  INFO 2232 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+§2021-10-17 08:46:59.522  INFO 2232 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2561 ms
+õ2021-10-17 08:46:59.925  INFO 2232 --- [    Test worker] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+ö2021-10-17 08:47:00.515  INFO 2232 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+†2021-10-17 08:47:00.615  INFO 2232 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8889 (http) with context path ''
+Æ2021-10-17 08:47:00.641  INFO 2232 --- [    Test worker] calculator.WebCalculatorApplication      : Started WebCalculatorApplication in 4.465 seconds (JVM running for 6.083)
+û2021-10-17 08:47:01.285  INFO 2232 --- [nio-8889-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+ç2021-10-17 08:47:01.287  INFO 2232 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+Ü2021-10-17 08:47:01.303  INFO 2232 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+[1;31m
+Start test 2[0m
+[1;31m
+Start test 3[0m
+[1;31m
+Start test 4[0m
